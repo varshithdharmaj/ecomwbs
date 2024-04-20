@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>E-commerce Website</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>E-commerce Website</h1>
+    </header>
+    <main id="product-list">
+        <!-- Product cards will be inserted here -->
+    </main>
+    <script src="js/script.js"></script>
+</body>
+</html>
